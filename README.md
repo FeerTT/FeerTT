@@ -25,7 +25,5 @@ PostgreSQL y Sequelize: He utilizado la base de datos relacional PostgreSQL junt
 
 HTML && CSS.
 
-GIT: Utilizo GIT para el control de versiones y la colaboración en proyectos, lo que me permite mantener un flujo de trabajo ordenado y seguir las mejores prácticas de desarrollo.
-
 Si estás buscando un apasionado Desarrollador Full Stack con experiencia en estas tecnologías, no dudes en contactarme. Estoy emocionado por las oportunidades que el mundo de la tecnología ofrece y ansioso por contribuir con mi experiencia y habilidades en el desarrollo de software.
 
