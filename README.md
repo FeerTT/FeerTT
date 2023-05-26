@@ -9,3 +9,13 @@ Poseo una actitud proactiva y estoy dispuesto a asumir cualquier tipo de desafí
 Tengo una fuerte determinación y dedicación para alcanzar mis metas. Estoy dispuesto a trabajar arduamente para lograr los resultados deseados.
 Soy una persona sociable y disfruto colaborando en equipo. Mi objetivo es crear un ambiente de trabajo saludable y cooperativo, donde podamos potenciar nuestras habilidades y alcanzar resultados excepcionales.
 Si estás interesado en contar con un apasionado Desarrollador Full Stack en tu equipo, ¡no dudes en contactarme! Estoy emocionado por las oportunidades que el mundo de la tecnología ofrece y ansioso por contribuir con mi experiencia y habilidades en el desarrollo de software.
+
+
+Tecnologías:
+*Javascript
+*React.js
+*Node.js
+*Express.js
+*PostgreSQL
+*Sequelize
+*GIT
