@@ -1,21 +1,34 @@
 
-¡Hola! Soy Fernando Teodoro Trillo, un apasionado del mundo de la tecnología y entusiasmado por formar parte del campo de la informática. Me he capacitado en la reconocida institución "Soy Henry", donde obtuve el título de Desarrollador Full Stack.
+¡Hola! Soy Fernando Teodoro Trillo, un apasionado del mundo de la tecnología y un desarrollador Full Stack con experiencia en diversas tecnologías.
 
-Actualmente, me encuentro en busca de oportunidades laborales en equipos de desarrollo, ya sea en el ámbito Front End o Back End.
+Me he formado en la reconocida institución "Soy Henry" como Desarrollador Full Stack, obteniendo un sólido conocimiento en el desarrollo tanto en el front-end como en el back-end.
 
-Aquí algunos datos sobre mí:
+Actualmente, estoy buscando oportunidades emocionantes en equipos de desarrollo, ya sea en el ámbito Front End o Back End.
 
-Poseo una actitud proactiva y estoy dispuesto a asumir cualquier tipo de desafío. Siempre estoy abierto a aprender y me esfuerzo para adquirir nuevos conocimientos de forma rápida y efectiva.
-Tengo una fuerte determinación y dedicación para alcanzar mis metas. Estoy dispuesto a trabajar arduamente para lograr los resultados deseados.
-Soy una persona sociable y disfruto colaborando en equipo. Mi objetivo es crear un ambiente de trabajo saludable y cooperativo, donde podamos potenciar nuestras habilidades y alcanzar resultados excepcionales.
-Si estás interesado en contar con un apasionado Desarrollador Full Stack en tu equipo, ¡no dudes en contactarme! Estoy emocionado por las oportunidades que el mundo de la tecnología ofrece y ansioso por contribuir con mi experiencia y habilidades en el desarrollo de software.
+Aquí tienes algunas características que me definen:
 
+Actitud proactiva: Me entusiasma asumir nuevos desafíos y siempre estoy dispuesto a aprender. Me comprometo a adquirir rápidamente nuevos conocimientos y mantenerme actualizado en las últimas tendencias tecnológicas.
 
-Tecnologías:
-*Javascript
-*React.js
-*Node.js
-*Express.js
-*PostgreSQL
-*Sequelize
-*GIT
+Determinación y dedicación: Soy una persona orientada a resultados y tengo una fuerte determinación para alcanzar mis metas. Estoy dispuesto a trabajar arduamente para lograr los resultados deseados y superar los obstáculos que se presenten en el camino.
+
+Trabajo en equipo: Disfruto colaborar en equipo y creo en la importancia de un ambiente de trabajo saludable y cooperativo. Creo en potenciar las habilidades de cada miembro del equipo y trabajar juntos para alcanzar resultados excepcionales.
+
+En cuanto a mis habilidades técnicas, tengo experiencia en las siguientes tecnologías:
+
+JavaScript: Domino el lenguaje JavaScript, que es fundamental tanto en el desarrollo del lado del cliente como en el lado del servidor.
+
+React.js: Tengo experiencia en el desarrollo de aplicaciones web utilizando el framework React.js, lo cual me permite crear interfaces de usuario interactivas y dinámicas.
+
+Node.js y Express.js: He trabajado con Node.js y el framework Express.js para construir aplicaciones en el lado del servidor.
+
+PostgreSQL y Sequelize: He utilizado la base de datos relacional PostgreSQL junto con Sequelize como ORM para realizar operaciones de base de datos de manera eficiente y segura.
+
+HTML && CSS.
+
+GIT: Utilizo GIT para el control de versiones y la colaboración en proyectos, lo que me permite mantener un flujo de trabajo ordenado y seguir las mejores prácticas de desarrollo.
+
+Si estás buscando un apasionado Desarrollador Full Stack con experiencia en estas tecnologías, no dudes en contactarme. Estoy emocionado por las oportunidades que el mundo de la tecnología ofrece y ansioso por contribuir con mi experiencia y habilidades en el desarrollo de software.
+
+Puedes echar un vistazo a mi perfil de LinkedIn para más información
+Perfil LinkedIn: https://www.linkedin.com/in/fernando-trillo-573a371b3/
+Contacto: fernandotrillobaron25@hotmail.com
